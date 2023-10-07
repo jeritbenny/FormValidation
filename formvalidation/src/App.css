@@ -1,0 +1,20 @@
+.App{
+    
+    text-align: center;
+    border: 2px solid red;
+    display: flex;
+    margin: 60px 200px 0px 200px;
+}
+.img img{
+    width: 500px;
+}
+.form{
+    padding-left:90px ;
+    margin-top: 20px;
+}
+.space{
+    margin-bottom: 20px;
+}
+input{
+    padding:10px  60px 10px 0px;
+}
